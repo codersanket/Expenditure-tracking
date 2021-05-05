@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697917414778",
+    "project_id": "expenditure-tracking-904d0",
+    "storage_bucket": "expenditure-tracking-904d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697917414778:android:55366ac5124394e7708ac3",
+        "android_client_info": {
+          "package_name": "com.example.expenditure_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697917414778-pnngrv0bj03b13euv1hfkjo10qf2rhdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_dPYv6pPjgGMQE0s1xja8fmL5gI1AzY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697917414778-pnngrv0bj03b13euv1hfkjo10qf2rhdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
