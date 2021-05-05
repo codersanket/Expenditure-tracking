@@ -15,5 +15,5 @@ A Flutter project to track your Expanses.
 
 ## Screenshots
 
-![Screenshot 1](assets\screenshots\ss1.png "MarineGEO logo")
-![Screenshot 1](assets\screenshots\ss2.png "MarineGEO logo")
+![Screenshot 1](assets\screenshots\ss1.png "[Screenshot 1]")
+![Screenshot 1](assets\screenshots\ss2.png "[Screenshot 2]")
